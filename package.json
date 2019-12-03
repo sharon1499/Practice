@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+      "start": "node pap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ginodethub.com/sharon1499/Practice.git"
+  },
+  "author": "Sharon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharon1499/Practice/issues"
+  },
+  "homepage": "https://github.com/sharon1499/Practice#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  }
+}
