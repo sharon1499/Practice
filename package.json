@@ -2,15 +2,16 @@
   "name": "practice",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+      "start": "node pap.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sharon1499/Practice.git"
+    "url": "git+https://ginodethub.com/sharon1499/Practice.git"
   },
-  "author": "",
+  "author": "Sharon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sharon1499/Practice/issues"
